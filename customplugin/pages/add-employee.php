@@ -50,8 +50,9 @@ if(!empty($message))
 }
 ?>
 <div class="container">
-  <h2>Add Employee</h2>
   <div class="row"><div class="col-sm-8">
+  <h2>Add Employee</h2>
+
   <div class="panel panel-primary">
     <div class="panel-body">
     <form action="<?php echo $_SERVER['PHP_SELF'];?>?page=add-employee" method="post">
