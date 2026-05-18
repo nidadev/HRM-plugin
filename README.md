@@ -7,7 +7,7 @@ This plugin demonstrates WordPress plugin development, custom admin menus, datab
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Employee Management (Add / Edit / Delete)
 - Attendance Tracking System
@@ -19,7 +19,7 @@ This plugin demonstrates WordPress plugin development, custom admin menus, datab
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - WordPress
 - PHP
